@@ -1,0 +1,126 @@
+.card {
+    background-color: #fff;
+    width: 310px;
+    border-radius: 33px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2rem !important;
+    
+}
+
+#submit{
+    text-align: center;
+}
+
+input{
+    margin-bottom: 5px;
+}
+
+select{
+    margin-bottom: 5px;
+}
+
+#form-input-card{
+    width:400px;
+}
+
+.top-container {
+    display: flex;
+    align-items: center
+}
+
+.profile-img {
+    border-radius: 10px;
+    border: 2px solid #5957f9;
+    width: 70px;
+    margin-right: 10px;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: bold;
+    color: #272727;
+    position: relative;
+    top: 8px;
+    /* margin-left: 8px; */
+    text-align: left;
+}
+
+.mail {
+    font-size: 14px;
+    color: grey;
+    position: relative;
+    top: 2px;
+    /* margin-left: 8px; */
+    text-align: left;
+}
+
+.middle-container {
+    background-color: #eee;
+    border-radius: 12px
+}
+
+
+.round-div {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+
+
+.role {
+    font-size: 15px;
+    color: #272727;
+    font-weight: bold;
+    text-align: right;
+}
+
+.company {
+    color: #5957f9;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.address {
+    font-size: 16px;
+    font-weight: 700;
+    color: #272727;
+    font-size: 10pt;
+    margin-right: 8px;
+    margin-left: 8px;
+    margin-top: 8px;
+    text-align: left;
+}
+
+.addressdetail{
+    margin-left:10px;
+}
+
+.phonenum {
+    font-size: 16px;
+    font-weight: 700;
+    color: #272727;
+    font-size: 10pt;
+    margin-right: 8px;
+    margin-left: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.phonenumdetail{
+    margin-left:8px;
+}
+
+
+
+.row{
+    margin-top: 10px;
+}
+
+
